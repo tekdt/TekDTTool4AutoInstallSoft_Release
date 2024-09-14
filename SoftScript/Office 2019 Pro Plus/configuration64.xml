@@ -1,0 +1,8 @@
+<Configuration>
+	<Add OfficeClientEdition="64">
+		<Product ID="PerpetualVL2019">
+			<Language ID="en-us" />
+		</Product>
+	</Add>
+	<Display Level="None" AcceptEULA="TRUE" />
+</Configuration>
