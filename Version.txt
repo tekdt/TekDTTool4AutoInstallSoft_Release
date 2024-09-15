@@ -1,0 +1,4 @@
+[MAIN]
+CurrentVer=2024.04.05
+DirectLink=5FC0F5948E62DC65|5FC0F5948E62DC65!371|!ACo2LpL2Ekjcq3k
+FileName=TekDTTool4AutoInstallSoft.zip
