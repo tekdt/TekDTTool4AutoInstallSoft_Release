@@ -18,4 +18,4 @@ Công cụ cài đặt các phần mềm theo danh sách chọn sẵn, hỗ tr�
 Mọi vấn đề về công cụ này vui lòng ghé [Issues](https://github.com/tekdt/TekDTTool4AutoInstallSoft_Release/issues)
 
 ## <summary><b>Đóng góp</b></summary>
-TekDT sẽ rấtMong công cụ này sẽ giúp ích được nhiều cho bạn. TekDT cũng sẽ rất biết ơn, nếu bạn hỗ trợ cho dự án này [![OpenCollective]([https://github.com/adamalston/v2/actions/workflows/ci.yml/badge.svg]([https://opencollective.com/webpack/donate/button@2x.png?color=blue))](https://github.com/adamalston/v2/actions/workflows/ci.yml](https://opencollective.com/tekdtcom/donate?interval=oneTime&amount=1000000&contributeAs=me))
+TekDT sẽ rấtMong công cụ này sẽ giúp ích được nhiều cho bạn. TekDT cũng sẽ rất biết ơn, nếu bạn hỗ trợ cho dự án này [![OpenCollective](https://opencollective.com/webpack/donate/button@2x.png?color=blue)](https://opencollective.com/tekdtcom/donate?interval=oneTime&amount=1000000&contributeAs=me)
