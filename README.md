@@ -4,15 +4,18 @@ Công cụ cài đặt các phần mềm theo danh sách chọn sẵn, hỗ tr�
 ## <summary><b>Tải xuống và Chạy</b></summary>
 
 <b>Chế độ đồ hoạ</b>
-
 1. Tải xuống file ZIP [tại đây](https://github.com/tekdt/TekDTTool4AutoInstallSoft_Release/releases/download/TekDTTool4AutoInstallSoft/TekDTTool4AutoInstallSoft.zip) hoặc đơn giản chỉ cần tải toàn bộ kho lưu trữ này.
 2. Giải nén tập tin ZIP TekDTTool4AutoInstallSoft.zip.
 3. Nhấn đúp vào tập tin TekDTTool4AutoInstallSoft.exe để bắt đầu sử dụng.
 
 <b>Chế độ dòng lệnh</b>
-
 1. Mở Terminal hoặc CMD với dòng lệnh: `TekDTTool4AutoInstallSoft.exe /help`.
 2. Vui lòng xem hướng dẫn ở màn hình tiếp theo.
+
+## <summary><b>Thêm phần mềm</b></summary>
+Nếu bạn cần thêm phần mềm vào danh sách, vui lòng liên hệ TekDT bằng một trong những phương thức sau:
+- Email(dinhtrungtek@gmail.com)
+- Telegram(https://t.me/tekdt1152)
 
 ## <summary><b>Hỗ trợ</b></summary>
 Mọi vấn đề về công cụ này vui lòng ghé [Issues](https://github.com/tekdt/TekDTTool4AutoInstallSoft_Release/issues)
