@@ -14,8 +14,8 @@ Công cụ cài đặt các phần mềm theo danh sách chọn sẵn, hỗ tr�
 
 ## <summary><b>Thêm phần mềm</b></summary>
 Nếu bạn cần thêm phần mềm vào danh sách, vui lòng liên hệ TekDT bằng một trong những phương thức sau:
-- Email(dinhtrungtek@gmail.com)
-- Telegram(https://t.me/tekdt1152)
+- [Email](dinhtrungtek@gmail.com)
+- [Telegram](https://t.me/tekdt1152)
 
 ## <summary><b>Hỗ trợ</b></summary>
 Mọi vấn đề về công cụ này vui lòng ghé [Issues](https://github.com/tekdt/TekDTTool4AutoInstallSoft_Release/issues)
