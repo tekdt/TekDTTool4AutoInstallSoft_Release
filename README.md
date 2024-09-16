@@ -1,8 +1,9 @@
 # TekDTTool4AutoInstallSoft_Release
 Công cụ cài đặt các phần mềm theo danh sách chọn sẵn, hỗ trợ giao diện và chế độ dòng lệnh cho Windows. Công cụ này được tạo ra để hỗ trợ người dùng cài đặt nhanh chóng các phần mềm cần thiết và thường xuyên sử dụng.
 
-<details>
-  <summary><b>Tải xuống và Chạy</b></summary>
+## <summary><b>Tải xuống và Chạy</b></summary>
+
+<b>Chế độ đồ hoạ</b>
 
 1. Tải xuống file ZIP [tại đây](https://github.com/tekdt/TekDTTool4AutoInstallSoft_Release/releases/download/TekDTTool4AutoInstallSoft/TekDTTool4AutoInstallSoft.zip) hoặc đơn giản chỉ cần tải toàn bộ kho lưu trữ này.
 2. Giải nén tập tin ZIP TekDTTool4AutoInstallSoft.zip.
@@ -13,4 +14,5 @@ Công cụ cài đặt các phần mềm theo danh sách chọn sẵn, hỗ tr�
 1. Mở Terminal hoặc CMD với dòng lệnh: `TekDTTool4AutoInstallSoft.exe /help`.
 2. Vui lòng xem hướng dẫn ở màn hình tiếp theo.
 
-</details>
+## <summary><b>Hỗ trợ</b></summary>
+Mọi vấn đề về công cụ này vui lòng ghé [Issues](https://github.com/tekdt/TekDTTool4AutoInstallSoft_Release/issues)
