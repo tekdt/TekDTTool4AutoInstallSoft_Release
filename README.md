@@ -21,4 +21,4 @@ Nếu bạn cần thêm phần mềm vào danh sách, vui lòng liên hệ TekDT
 Mọi vấn đề về công cụ này vui lòng ghé [Issues](https://github.com/tekdt/TekDTTool4AutoInstallSoft_Release/issues)
 
 ## <summary><b>Đóng góp</b></summary>
-TekDT sẽ mong công cụ này sẽ giúp ích được nhiều cho bạn và TekDT cũng sẽ rất biết ơn, nếu bạn hỗ trợ cho dự án này [![OpenCollective](https://opencollective.com/webpack/donate/button@2x.png?color=blue)](https://opencollective.com/tekdtcom/donate?interval=oneTime&amount=1000000&contributeAs=me)
+TekDT mong công cụ này sẽ giúp ích được nhiều cho bạn và TekDT cũng sẽ rất biết ơn, nếu bạn hỗ trợ cho dự án này [![OpenCollective](https://opencollective.com/webpack/donate/button@2x.png?color=blue)](https://opencollective.com/tekdtcom/donate?interval=oneTime&amount=1000000&contributeAs=me)
