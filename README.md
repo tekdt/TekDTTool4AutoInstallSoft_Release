@@ -1,4 +1,4 @@
-# TekDTTool4AutoInstallSoft_Release
+# TekDTTool4AutoInstallSoft
 Công cụ cài đặt các phần mềm theo danh sách chọn sẵn, hỗ trợ giao diện và chế độ dòng lệnh cho Windows. Công cụ này được tạo ra để hỗ trợ người dùng cài đặt nhanh chóng các phần mềm cần thiết và thường xuyên sử dụng.
 
 ## <summary><b>Tải xuống và Chạy</b></summary>
