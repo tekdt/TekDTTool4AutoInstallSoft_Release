@@ -8,23 +8,24 @@ A tool to install software from a pre-selected list, supporting interface and co
 <b>Chế độ đồ hoạ/Graphic mode</b>
 1. Tải xuống file ZIP [tại đây](https://github.com/tekdt/TekDTTool4AutoInstallSoft_Release/releases/download/TekDTTool4AutoInstallSoft/TekDTTool4AutoInstallSoft.zip) hoặc đơn giản chỉ cần tải toàn bộ kho lưu trữ này.
 
-Download the ZIP file [here](https://github.com/tekdt/TekDTTool4AutoInstallSoft_Release/releases/download/TekDTTool4AutoInstallSoft/TekDTTool4AutoInstallSoft.zip) or simply download this repository.
+1. Download the ZIP file [here](https://github.com/tekdt/TekDTTool4AutoInstallSoft_Release/releases/download/TekDTTool4AutoInstallSoft/TekDTTool4AutoInstallSoft.zip) or simply download this repository.
 
 2. Giải nén tập tin ZIP TekDTTool4AutoInstallSoft.zip.
 
-Extract the ZIP file TekDTTool4AutoInstallSoft.zip.
+2.Extract the ZIP file TekDTTool4AutoInstallSoft.zip.
 
 3. Nhấn đúp vào tập tin TekDTTool4AutoInstallSoft.exe để bắt đầu sử dụng.
 
-Double-click the TekDTTool4AutoInstallSoft.exe file to start using it.
+3. Double-click the TekDTTool4AutoInstallSoft.exe file to start using it.
 
 <b>Chế độ dòng lệnh/Command line mode</b>
 1. Mở Terminal hoặc CMD với dòng lệnh: `TekDTTool4AutoInstallSoft.exe /help`.
 
-Open Terminal or CMD with command line: `TekDTTool4AutoInstallSoft.exe /help`.
+1. Open Terminal or CMD with command line: `TekDTTool4AutoInstallSoft.exe /help`.
 
 2. Vui lòng xem hướng dẫn ở màn hình tiếp theo.
-Please see instructions on the next screen.
+
+2. Please see instructions on the next screen.
 
 ## <summary><b>Thêm phần mềm/Add new software</b></summary>
 Nếu bạn cần thêm phần mềm vào danh sách, vui lòng liên hệ TekDT bằng một trong những kênh sau:
