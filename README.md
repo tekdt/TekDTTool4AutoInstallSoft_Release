@@ -31,7 +31,7 @@ A tool to install software from a pre-selected list, supporting interface and co
 Nếu bạn cần thêm phần mềm vào danh sách, vui lòng liên hệ TekDT bằng một trong những kênh sau:
 
 If you need to add software to the list, please contact TekDT using one of the following channels:
-- [Email](dinhtrungtek@gmail.com)
+- [Email](mailto:dinhtrungtek@gmail.com)
 - [Telegram](https://t.me/tekdt1152)
 
 ## <summary><b>Hỗ trợ/Support</b></summary>
