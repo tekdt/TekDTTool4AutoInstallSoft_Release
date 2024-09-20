@@ -1,5 +1,5 @@
 # TekDT Tool 4 Auto Install Soft
-[![TekDTTool4AutoInstallSoft icon](https://raw.githubusercontent.com/tekdt/TekDTTool4AutoInstallSoft_Release/refs/heads/main/Icons/icon.ico)](https://github.com/tekdt)
+<div align="center">[![TekDTTool4AutoInstallSoft icon](https://raw.githubusercontent.com/tekdt/TekDTTool4AutoInstallSoft_Release/refs/heads/main/Icons/icon.ico)](https://github.com/tekdt)</div>
 
 Công cụ cài đặt các phần mềm theo danh sách chọn sẵn, hỗ trợ giao diện và chế độ dòng lệnh cho Windows. Công cụ này được tạo ra để hỗ trợ người dùng cài đặt nhanh chóng các phần mềm cần thiết và thường xuyên sử dụng.
 
@@ -47,5 +47,5 @@ TekDT mong công cụ này sẽ giúp ích được nhiều cho bạn và TekDT 
 TekDT hopes this tool will be helpful to you and TekDT will be very grateful if you donate this project. Other donation channels, you can see inside the software in the Donate tab.
 [![OpenCollective](https://opencollective.com/webpack/donate/button@2x.png?color=blue)](https://opencollective.com/tekdtcom/donate?interval=oneTime&amount=1000000&contributeAs=me)
 <div align="center">
-<img src="https://opencollective.com/webpack/donate/button@2x.png?color=blue" width="50%" height="50%">
+<a href="https://opencollective.com/tekdtcom/donate?interval=oneTime&amount=1000000&contributeAs=me"><img src="https://opencollective.com/webpack/donate/button@2x.png?color=blue" width="50%" height="50%"></a>
 </div>
