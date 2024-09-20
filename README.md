@@ -46,3 +46,6 @@ TekDT mong công cụ này sẽ giúp ích được nhiều cho bạn và TekDT 
 
 TekDT hopes this tool will be helpful to you and TekDT will be very grateful if you donate this project. Other donation channels, you can see inside the software in the Donate tab.
 [![OpenCollective](https://opencollective.com/webpack/donate/button@2x.png?color=blue)](https://opencollective.com/tekdtcom/donate?interval=oneTime&amount=1000000&contributeAs=me)
+<div align="center">
+<img src="https://opencollective.com/webpack/donate/button@2x.png?color=blue" width="50%" height="50%">
+</div>
