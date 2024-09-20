@@ -1,4 +1,5 @@
 # TekDT Tool 4 Auto Install Soft
+[![OpenCollective](https://opencollective.com/webpack/donate/button@2x.png?color=blue)](https://opencollective.com/tekdtcom/donate?interval=oneTime&amount=1000000&contributeAs=me)
 Công cụ cài đặt các phần mềm theo danh sách chọn sẵn, hỗ trợ giao diện và chế độ dòng lệnh cho Windows. Công cụ này được tạo ra để hỗ trợ người dùng cài đặt nhanh chóng các phần mềm cần thiết và thường xuyên sử dụng.
 
 A tool to install software from a pre-selected list, supporting interface and command line mode for Windows. This tool was created to support users to quickly install necessary and frequently used softwares.
