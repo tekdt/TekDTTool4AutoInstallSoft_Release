@@ -1,5 +1,5 @@
 # TekDT Tool 4 Auto Install Soft
-<a href="https://github.com/tekdt"><img src="https://raw.githubusercontent.com/tekdt/TekDTTool4AutoInstallSoft_Release/refs/heads/main/Icons/icon.ico" width="50%" height="50%"></a>
+<a href="https://github.com/tekdt"><img src="https://raw.githubusercontent.com/tekdt/TekDTTool4AutoInstallSoft_Release/refs/heads/main/Icons/icon.ico"></a>
 </div>
 
 Công cụ cài đặt các phần mềm theo danh sách chọn sẵn, hỗ trợ giao diện và chế độ dòng lệnh cho Windows. Công cụ này được tạo ra để hỗ trợ người dùng cài đặt nhanh chóng các phần mềm cần thiết và thường xuyên sử dụng.
