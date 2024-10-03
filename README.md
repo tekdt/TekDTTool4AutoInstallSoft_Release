@@ -2,9 +2,9 @@
 <div align="center"><a href="https://github.com/tekdt"><img src="https://raw.githubusercontent.com/tekdt/TekDTTool4AutoInstallSoft_Release/refs/heads/main/Icons/icon.ico"></a>
 </div>
 
-Công cụ cài đặt các phần mềm theo danh sách chọn sẵn, hỗ trợ giao diện và chế độ dòng lệnh cho Windows. Công cụ này được tạo ra để hỗ trợ người dùng cài đặt nhanh chóng các phần mềm cần thiết và thường xuyên sử dụng.
+Công cụ cài đặt các phần mềm theo danh sách chọn sẵn, hỗ trợ giao diện và chế độ dòng lệnh cho Windows. Công cụ này được tạo ra để hỗ trợ người dùng cài đặt nhanh chóng các phần mềm cần thiết và thường xuyên sử dụng. Danh sách các phần mềm được hỗ trợ [tại đây](https://github.com/tekdt/TekDTTool4AutoInstallSoft_Release/blob/main/SoftData/SoftData.csv), xem ở cột Name.
 
-A tool to install software from a pre-selected list, supporting interface and command line mode for Windows. This tool was created to support users to quickly install necessary and frequently used softwares.
+A tool to install software from a pre-selected list, supporting interface and command line mode for Windows. This tool was created to support users to quickly install necessary and frequently used softwares. The list of supported softwares [here](https://github.com/tekdt/TekDTTool4AutoInstallSoft_Release/blob/main/SoftData/SoftData.csv), see Name column
 
 ## <summary><b>Tải xuống và Chạy/Download and Run</b></summary>
 
